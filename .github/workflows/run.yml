@@ -1,7 +1,5 @@
-name: 刷步数
+name: 小米运动
  
- 
-
 on:
   push:
     branches: [ main ]
